@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://kasarbackend.nomoredomainswork.ru/';
+export const BASE_URL = 'https://kasarbackend.nomoredomainswork.ru/api';
 
 export const endpoints = {
 	games: `${BASE_URL}/games`,
